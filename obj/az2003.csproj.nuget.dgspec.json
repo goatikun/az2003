@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\work\\test\\az2003\\az2003.csproj": {}
+    "C:\\Users\\Go\\Documents\\GitHub\\az2003\\az2003.csproj": {}
   },
   "projects": {
-    "D:\\work\\test\\az2003\\az2003.csproj": {
+    "C:\\Users\\Go\\Documents\\GitHub\\az2003\\az2003.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\test\\az2003\\az2003.csproj",
+        "projectUniqueName": "C:\\Users\\Go\\Documents\\GitHub\\az2003\\az2003.csproj",
         "projectName": "az2003",
-        "projectPath": "D:\\work\\test\\az2003\\az2003.csproj",
+        "projectPath": "C:\\Users\\Go\\Documents\\GitHub\\az2003\\az2003.csproj",
         "packagesPath": "C:\\Users\\Go\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\test\\az2003\\obj\\",
+        "outputPath": "C:\\Users\\Go\\Documents\\GitHub\\az2003\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Go\\AppData\\Roaming\\NuGet\\NuGet.Config"
