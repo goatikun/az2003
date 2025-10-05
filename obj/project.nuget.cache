@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eOK53XV0LiY=",
+  "dgSpecHash": "YaMBOyxUAUk=",
   "success": true,
-  "projectFilePath": "D:\\work\\test\\az2003\\az2003.csproj",
+  "projectFilePath": "C:\\Users\\Go\\Documents\\GitHub\\az2003\\az2003.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Go\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.20\\microsoft.aspnetcore.openapi.8.0.20.nupkg.sha512",
     "C:\\Users\\Go\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
